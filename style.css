@@ -1,0 +1,35 @@
+h1{
+   color:blue;
+  }
+
+
+/*  * {
+        border: solid;
+  }
+*/
+  .header1{
+   background-color: rgb(0, 204, 255);
+   display: flex;
+   justify-content: space-evenly;
+   font-size: large;
+  }
+
+  .grid{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content:space-evenly
+  }
+    
+  .mail{
+    display: flex;
+    justify-content:flex-end;
+}
+
+h2,p{
+    text-align:center;
+    font-size:15pt
+}
+
+body{
+  background-color: #808080;
+}
